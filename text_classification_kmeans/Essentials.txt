@@ -1,0 +1,22 @@
+1) Text Classification - 
+    - We have fixed set of classes/categories.
+    - Given any text, assign it to one of the categories
+2) Text Clustering - 
+    - Grouping a set of unlabeled texts in groups, such that texts in a given group ae mosre similar to each other than text in other groups
+    
+3) Training a ML model for text analysis : 
+    - Collect data
+    - Remove Stop words
+        - Stop words - "and","if","the" (very common and not so meaningful in deciding the cintext) 
+    - Remove Punctuation
+        - Punctutations - ([‘!’, ‘#’, ‘”‘, ‘%’, ‘$’, “‘”, ‘&’, ‘)’, ‘(‘, ‘+’, ‘*’, ‘-‘, ‘,’, ‘/’, ‘.’, ‘;’, ‘:’, ‘=’, ‘<‘, ‘?’, ‘>’, ‘@’, ‘[‘, ‘]’, ‘\\’, ‘_’, ‘^’, ‘`’, ‘{‘, ‘}’, ‘|’, ‘~’]).
+    - Word Lemmatization
+        - process of grouping together the different forms of same word
+        - eg. "remove","removed","removal" - all represent "remove"
+        - context of sentence is preserved
+    - Digit Removal
+    - Feature extraction( tf-idf)
+    - Model Training
+4) re module - Regular expression
+    - re.sub(pattern_to_replace,replacement,text)
+        re.sub("hey","hi","hey there!") - "hi there"
