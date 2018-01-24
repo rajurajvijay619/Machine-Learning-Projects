@@ -8,7 +8,7 @@ This Classifier predicts if a given mail is Spam or Ham. It's a Supervised Learn
 
 * They work by correlating the use of certain words with spam and non-spam emails.
 * Then using Bayes theorem, Probability is calculated if the mail is Spam or not.
-![Naive-Bayes](naive.png)
+![Naive-Bayes](naive.PNG)
 * Some phrases have "higher probabilities" of occuring in Spam mails than others. Ex: "Free","Discount","You have won","Click to see if you have won" ..
 
 # Main Script
