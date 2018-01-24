@@ -9,7 +9,7 @@
 * [kNN & kmeans based Text Classifier](text_classification_kmeans)
 * [Spam/ham Classifier](Spam_filter)
 
-## Getting Started
+## About
 
 This repo is a collection of practical Machine Learning Projects ,employing various Techniques,Algorithms, and Tools which helped me learn a great deal about Machine Learning
 
