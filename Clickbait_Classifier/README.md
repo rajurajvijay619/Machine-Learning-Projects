@@ -1,6 +1,6 @@
 # CLICKBAIT HEADLINE CLASSIFIER
 
-
+![clickbait](clickbait1.jpg)
 ### Clickbait headline - A headline which lures readers/surfers to click it through exciting and fascinating language which arouses the curiosity.
 * Examples : 
 	* 10 Things you should do to become a millionare before turning 30.
@@ -10,8 +10,11 @@
 
 * This classifier predicts whether a headline is a Clickbait or a Normal headline.
 
-* This is a Supervised machine learning problem where we show the Algorithm many labelled examples of Clickbaits and Non-clickbaits.
+* This is a Supervised machine learning problem where we show the Algorithm many labelled examples of Clickbaits and Non-clickbaits .
 
+# Main script
+
+* [main.py](main.py)
 
 ### To run the project  :
 * Create a virtual environment :<br> 

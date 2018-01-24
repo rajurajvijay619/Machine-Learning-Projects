@@ -1,4 +1,4 @@
-#Reinforcement Learning Simulation
+# Reinforcement Learning Simulation
 
 
 ## About
@@ -19,9 +19,10 @@ This Simulation Implements the Concept of Reinforcement learning, where a Car "l
 
 
 ```
-Self Driving Car
+Best example : Self Driving Car
 ```
-
+# Main script
+* [script.js](script.js)
 
 ## Built With
 
