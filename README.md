@@ -23,6 +23,6 @@ What things you need to know/install the software and how to install them
 
 ## Acknowledgments
 
-* Coursera
-* SentDex
+* [Coursera](coursera.org)
+* [SentDex](https://www.youtube.com/user/sentdex)
 
