@@ -3,11 +3,11 @@
 ![ML](ml.png)
 
 ## Contents
-* ![Convolutional Neural Network based Image Classifier](TensorFlow_CNN)
-* ![Reinforcement Learning Simulation](Reinforcement_Learning_Simulation)
-* ![Clickbait Classifier](Clickbait_Classifier)
-* ![kNN & kmeans based Text Classifier](text_classification_kmeans)
-* ![Spam/ham Classifier](Spam_filter)
+* [Convolutional Neural Network based Image Classifier](TensorFlow_CNN)
+* [Reinforcement Learning Simulation](Reinforcement_Learning_Simulation)
+* [Clickbait Classifier](Clickbait_Classifier)
+* [kNN & kmeans based Text Classifier](text_classification_kmeans)
+* [Spam/ham Classifier](Spam_filter)
 
 ## Getting Started
 
