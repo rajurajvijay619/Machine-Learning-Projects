@@ -1,6 +1,6 @@
 # Reinforcement Learning Simulation
 
-
+![Reinforcement](reinforcement.png)
 ## About
 
 This Simulation Implements the Concept of Reinforcement learning, where a Car "learns" to avoid obstacles by Trial and Error, and gets better with Time at achieving its End goal.
