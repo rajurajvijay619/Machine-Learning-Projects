@@ -1,13 +1,13 @@
-import cv2                 # working with, mainly resizing, images
-import numpy as np         # dealing with arrays
-import os                  # dealing with directories
-from random import shuffle # mixing up or currently ordered data that might lead our network astray in training.
-from tqdm import tqdm      # a nice pretty percentage bar for tasks. Thanks to viewer Daniel BA1/4hler for this suggestion
+import cv2               
+import numpy as np        
+import os                 
+from random import shuffle
+from tqdm import tqdm     
 
-TRAIN_DIR = 'C:\\Users\\len\\Desktop\\classifier\\train'
-TEST_DIR = 'C:\\Users\\len\\Desktop\\classifier\\test'
+TRAIN_DIR = 'C:\\Users\\len\\Desktop\\classifier\\train' #path to directory containing train data
+TEST_DIR = 'C:\\Users\\len\\Desktop\\classifier\\test' #path to directory containing test data
 IMG_SIZE = 50
-LR = 1e-3
+LR = 1e-3 #Learning Rate
 
 MODEL_NAME = 'dogsvscats-{}-{}.model'.format(LR, '6conv-basic')
 
