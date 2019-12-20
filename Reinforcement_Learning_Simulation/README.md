@@ -1,6 +1,6 @@
 # Reinforcement Learning Simulation
 
-[Demo](https://raj-reinforcement-learning-demo.netlify.com/)
+<a href alt="Demo" src="https://raj-reinforcement-learning-demo.netlify.com/">Demo</a>
 
 ![Reinforcement](reinforcement.png)
 ## About
